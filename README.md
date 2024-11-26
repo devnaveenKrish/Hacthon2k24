@@ -26,7 +26,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="Logo.png" alt="Logo">
+    <img src="Logo.jpeg" alt="Logo">
   </a>
 
   <h3 align="center">Team Pere Pere</h3>
