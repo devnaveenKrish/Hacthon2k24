@@ -69,7 +69,7 @@ Post-Traumatic Stress Disorder (PTSD) is a mental health condition that can deve
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Logo](path/to/logo.png)
+![Logo](Logo.jpeg)
 Project Overview: This project focuses on exploring Post-Traumatic Stress Disorder (PTSD), a mental health condition that affects individuals after experiencing or witnessing traumatic events. The aim is to raise awareness about PTSD, its symptoms, and treatment options while providing support and resources to those impacted by the disorder.
 
 Objectives: how it affects people, and the common symptoms such as flashbacks, anxiety, and emotional numbness. It will also explore current treatment methods, including therapy and medication, and create resources for individuals affected by PTSD. Raising awareness and reducing the stigma surrounding mental health is a core goal
