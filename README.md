@@ -80,48 +80,7 @@ Treatment and Support: The project will focus on available treatment options suc
 
 
 
-
-## Dataset
-Dataset Information:
-
-
-
-
-
-
-
-
-
-
-
-
-### EDA
-
-
-
-
-
-
-## Models
-
-Here are some Modelling we performed
-
-
-
-
-
-
-## Results
-
-
-
-
-
-
-
-
-
-
-
+## Models and Results
+For more information we will provide the link about the presentation.  EmoHeal.pdf
 
 
