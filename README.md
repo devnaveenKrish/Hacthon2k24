@@ -81,6 +81,5 @@ Treatment and Support: The project will focus on available treatment options suc
 
 
 ## Models and Results
-For more information we will provide the link about the presentation.  EmoHeal.pdf
-
+For more information we will provide the link about the presentation. [**EmoHeal.pdf**](./EmoHeal.pdf)
 
